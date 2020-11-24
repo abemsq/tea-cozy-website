@@ -9,7 +9,7 @@ and values. These are usually created by a designer as a source of instructions
 for a web developer. This project assumes that you will be able to reproduce the
 basic HTML and CSS with little guidance.
 
-[!image](https://github.com/abemsq/tea-cozy-website/blob/master/image.png)
+![image](https://github.com/abemsq/tea-cozy-website/blob/master/image.png)
 
 ## HTML
 ```
